@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<root xmlns="urn:schemas-upnp-org:device-1-0">
+    <specVersion>
+        <major>1</major>
+        <minor>0</minor>
+    </specVersion>
+    <device>
+        <deviceType>urn:roku-com:device:player:1-0</deviceType>
+        <friendlyName>ECP sniffer</friendlyName>
+        <manufacturer>Roku</manufacturer>
+        <manufacturerURL>http://www.roku.com/</manufacturerURL>
+        <modelDescription>Roku Streaming Player Network Media</modelDescription>
+        <modelName>3810EU</modelName>
+        <modelNumber>3810EU</modelNumber>
+        <modelURL>http://www.roku.com/</modelURL>
+        <serialNumber>{{sn}}</serialNumber>
+        <UDN>uuid:{{uuid}}</UDN>
+        <iconList>
+            <icon>
+                <mimetype>image/png</mimetype>
+                <width>360</width>
+                <height>219</height>
+                <depth>8</depth>
+                <url>device-image.png</url>
+            </icon>
+        </iconList>
+        <serviceList>
+        </serviceList>
+    </device>
+</root>

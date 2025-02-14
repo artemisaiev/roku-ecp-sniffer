@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<device-info>
+	<udn>{{uuid}}</udn>
+	<virtual-device-id>{{sn}}</virtual-device-id>
+	<serial-number>{{sn}}</serial-number>
+	<device-id>{{sn}}</device-id>
+	<advertising-id></advertising-id>
+	<vendor-name>Roku</vendor-name>
+	<model-name>Roku Streaming Stick+</model-name>
+	<model-number>3810EU</model-number>
+	<model-region>US</model-region>
+	<is-tv>false</is-tv>
+	<is-stick>true</is-stick>
+	<mobile-has-live-tv>false</mobile-has-live-tv>
+	<ui-resolution>1080p</ui-resolution>
+	<supports-ethernet>false</supports-ethernet>
+	<wifi-mac>aa:bb:cc:dd:ee:ff</wifi-mac>
+	<wifi-driver>realtek</wifi-driver>
+	<has-wifi-5G-support>true</has-wifi-5G-support>
+	<network-type>wifi</network-type>
+	<network-name>DEFAULT</network-name>
+	<friendly-device-name>ECP Sniffer</friendly-device-name>
+	<friendly-model-name>Roku Streaming Stick+</friendly-model-name>
+	<default-device-name>Roku Streaming Stick+ - {{sn}}</default-device-name>
+	<user-device-name>ECP Sniffer</user-device-name>
+	<user-device-location>macos</user-device-location>
+	<build-number>50F.14E07709A</build-number>
+	<software-version>14.1.4</software-version>
+	<software-build>7709</software-build>
+	<lightning-base-build-number>xxF.04E122xxA</lightning-base-build-number>
+	<ui-build-number>50F.14E07709A</ui-build-number>
+	<ui-software-version>14.1.4</ui-software-version>
+	<ui-software-build>7709</ui-software-build>
+	<secure-device>true</secure-device>
+	<language>en</language>
+	<country>GB</country>
+	<locale>en_GB</locale>
+	<time-zone-auto>true</time-zone-auto>
+	<time-zone>Europe/United Kingdom</time-zone>
+	<time-zone-name>Europe/United Kingdom</time-zone-name>
+	<time-zone-tz>Europe/London</time-zone-tz>
+	<time-zone-offset>0</time-zone-offset>
+	<clock-format>12-hour</clock-format>
+	<uptime>{{uptime}}</uptime>
+	<power-mode>PowerOn</power-mode>
+	<supports-suspend>false</supports-suspend>
+	<supports-find-remote>true</supports-find-remote>
+	<find-remote-is-possible>false</find-remote-is-possible>
+	<supports-audio-guide>true</supports-audio-guide>
+	<supports-rva>true</supports-rva>
+	<has-hands-free-voice-remote>false</has-hands-free-voice-remote>
+	<developer-enabled>true</developer-enabled>
+	<keyed-developer-id></keyed-developer-id>
+	<device-automation-bridge-enabled>false</device-automation-bridge-enabled>
+	<search-enabled>true</search-enabled>
+	<search-channels-enabled>true</search-channels-enabled>
+	<voice-search-enabled>true</voice-search-enabled>
+	<supports-private-listening>true</supports-private-listening>
+	<headphones-connected>false</headphones-connected>
+	<supports-audio-settings>false</supports-audio-settings>
+	<supports-ecs-textedit>true</supports-ecs-textedit>
+	<supports-ecs-microphone>true</supports-ecs-microphone>
+	<supports-wake-on-wlan>false</supports-wake-on-wlan>
+	<supports-airplay>true</supports-airplay>
+	<has-play-on-roku>true</has-play-on-roku>
+	<has-mobile-screensaver>false</has-mobile-screensaver>
+	<support-url>roku.com/support</support-url>
+	<grandcentral-version>12.11.13</grandcentral-version>
+	<supports-trc>true</supports-trc>
+	<trc-version>3.0</trc-version>
+	<trc-channel-version>12.5.18</trc-channel-version>
+	<av-sync-calibration-enabled>3.0</av-sync-calibration-enabled>
+	<brightscript-debugger-version>3.3.0</brightscript-debugger-version>
+</device-info>

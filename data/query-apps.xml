@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<apps>
+{{#apps}}
+	<app id="{{id}}" type="appl" subtype="rsga" version="1.0.0">{{name}}</app>
+{{/apps}}
+</apps>

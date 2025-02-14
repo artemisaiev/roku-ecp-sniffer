@@ -1,0 +1,23 @@
+{
+  "name": "roku-ecp-sniffer",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artemisaiev/roku-ecp-sniffer"
+  },
+  "type": "module",
+  "author": "Artem Isaiev <artem.isaiev@gmail.com>",
+  "license": "ISC",
+  "description": "A simple sniffer to receive ECP (deeplinks) commands sent from The Roku App",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-ws": "^5.0.2",
+    "mustache": "^4.2.0",
+    "uuid": "^11.0.5"
+  }
+}
