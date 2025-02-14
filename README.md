@@ -39,8 +39,7 @@ Add the channel(s) you want to debug. You will need the Name and ID of your prod
     
 - Run the Roku app on your mobile. You will see your "fake device" in the devices tab. Connect to it:
 
-<img src="https://github.com/user-attachments/assets/c3879d32-2822-479f-94e8-a46ae8b07764" width="30%" />
-
+<img src="https://github.com/user-attachments/assets/f8113fb5-d20a-4b4f-8258-7296c2889261" width="30%" />
 
 
 - Launch some content from the Roku App. **Finally** you can see the deeplink `mediaType` and `contentId` in the sniffer application output.
